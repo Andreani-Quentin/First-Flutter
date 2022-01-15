@@ -1,6 +1,6 @@
-# festapp
+# FestApp
 
-A new Flutter project.
+Ceci est mon premier projet Flutter, il n'est pas terminé, le but était de réaliser une application de gestion de festival.
 
 ## Getting Started
 
